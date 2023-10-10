@@ -1,0 +1,41 @@
+.skills{
+    font-family:'Aclonica', sans-serif;
+    text-align: center;
+    color: #DAFFFB;
+}
+.skill{
+    color:#FFF2D8;
+}
+.star{
+    font-family:'Aclonica', sans-serif;
+    color:#FFF2D8;
+}
+.soft{
+    font-family:'Aclonica', sans-serif;
+    color: #183D3D;
+}
+.gradient-background {
+    background: linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+    margin-bottom: -200px;
+}
+@media(max-width:600px)
+{   
+    .s1{
+        width: 30px;
+    }
+    .lin{
+        margin:10px;
+    }
+    .me1{
+        margin-right:5px;
+    }
+    .m1{
+        text-align: left;
+        margin-left: -30px;
+    }
+    .lead{
+        margin-left: 40px;
+    }
+}
